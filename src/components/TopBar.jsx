@@ -27,7 +27,7 @@ const TopBar = () => {
             </svg>
           </div>
           <h1 className="text-2xl font-bold text-[#a96b29]">
-            DEEP <span className="text-black">VIHAR</span>
+            HITECH <span className="text-black">REAL ESTATE</span>
           </h1>
         </div>
 
@@ -38,7 +38,7 @@ const TopBar = () => {
             <div className="flex flex-col mr-[15px]">
               <p className="flex font-medium text-base">Phone Number</p>
               <span className="font-medium text-xs flex">
-              +91-8700220135
+              +91-99537 66315
               </span>
             </div>
           </div>
@@ -47,7 +47,7 @@ const TopBar = () => {
             <div className="flex flex-col mr-[15px]">
               <p className="flex font-medium text-base">Email Address</p>
               <span className="font-medium text-xs flex">
-                Deepvihardelhi@gmail.com
+                info@hitechrealestate.com
               </span>
             </div>
           </div>
@@ -56,8 +56,8 @@ const TopBar = () => {
             <div className="flex flex-col">
               <p className="flex font-medium text-base">Location</p>
               <span className="font-medium text-xs flex">
-              Deep Vihar, Pansali Near Sec – 24, Rohini,<br />
-              Delhi -110042
+              Plot No.222, Pocket-2, Sector-24, Rohini<br />
+              New Delhi, Delhi, 110085
               </span>
             </div>
           </div>

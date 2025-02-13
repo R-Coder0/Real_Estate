@@ -21,7 +21,7 @@ const Contact = () => {
         </h1>
       </section>
       <section className="py-16 bg-gray-50">
-        <div className="max-w-7xl mx-auto p-5 grid grid-cols-1 lg:grid-cols-2 gap-12 border-[1px]">
+        <div className="max-w-7xl mx-auto p-5 grid grid-cols-1 lg:grid-cols-2 gap-12 border-[1px] border-gray-300">
           {/* Contact Form */}
           <div>
             <h2 className="text-3xl font-bold text-gray-800 mb-6">
@@ -139,19 +139,13 @@ const Contact = () => {
             </h2>
             <div>
               <h3 className="text-lg font-bold text-gray-800">Cell Phone:</h3>
-              <p className="text-gray-600">+91 98678-92102</p>
+              <p className="text-gray-600">+91 9953766315</p>
             </div>
             <div>
               <h3 className="text-lg font-bold text-gray-800">Email:</h3>
-              <p className="text-gray-600">info@rkmumbailrealtors.com</p>
-              <p className="text-gray-600">rkmumbailrealtors@gmail.com</p>
+              <p className="text-gray-600">info@hitechrealestate.com</p>
             </div>
-            <div>
-              <h3 className="text-lg font-bold text-gray-800">
-                MahaRERA Number:
-              </h3>
-              <p className="text-gray-600">A519000000008</p>
-            </div>
+            
             <div>
               <h3 className="text-lg font-bold text-gray-800">
                 Social Icons:
@@ -175,14 +169,12 @@ const Contact = () => {
             <div>
               <h3 className="text-lg font-bold text-gray-800">Address:</h3>
               <p className="text-gray-600">
-                Shop 2-B Shalimar Apartments, Ground Floor, B.M. Bhargav Marg,
-                Opp Khira Industrial Estate, Santacruz (W), Mumbai 400054,
-                Maharashtra, India.
+              Plot No.222, Pocket-2, Sector-24, Rohini, New Delhi, Delhi, 110085
               </p>
             </div>
             <div>
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3770.6893094322145!2d72.83106171490356!3d19.07283038709145!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c630732f9b8f%3A0x6f83e65989e6b942!2sRK%20Mumbai%20Realtors!5e0!3m2!1sen!2sin!4v1614314691724!5m2!1sen!2sin"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d448165.95654665394!2d76.78759318844094!3d28.65083847077198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d075789517eed%3A0x3927f8712990338d!2sHI-TECH%20REAL%20ESTATE!5e0!3m2!1sen!2sin!4v1739435556656!5m2!1sen!2sin"
                 className="w-full h-60 border-0"
                 allowFullScreen=""
                 loading="lazy"

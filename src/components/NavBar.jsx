@@ -9,11 +9,11 @@ const Navbar = () => {
     <nav className="bg-[#814d1b] h-15 hidden lg:flex items-center">
       <div className="max-w-[1400px] mx-auto flex justify-center space-x-4 h-full">
         <NavItem to="/" label="HOME" />
-        <NavItem to="/about-deep-vihar" label="ABOUT DEEP VIHAR" />
+        {/* <NavItem to="/about-deep-vihar" label="ABOUT DEEP VIHAR" /> */}
         <NavItem to="/about-us" label="ABOUT US" />
-        <NavItem to="/properties" label="PROPERTIES" />
-        <NavItem to="/helping-hands" label="HELPING HANDS" />
-        <NavItem to="/home-decor" label="HOME DECOR" />
+        <NavItem to="/services" label="SERVICES" />
+        <NavItem to="/gallery" label="GALLERY" />
+        {/* <NavItem to="/home-decor" label="HOME DECOR" /> */}
         <NavItem to="/contact" label="CONTACT US" />
       </div>
     </nav>
