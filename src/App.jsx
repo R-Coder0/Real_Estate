@@ -6,6 +6,7 @@ import MobileNavbar from "./components/MobileMenu";
 import Footer from "./components/Footer";
 import Contact from "./pages/Contact";
 import Gallery from "./pages/Gallery";
+import About from "./pages/About";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/contact" element={<Contact/>}/>
           <Route path="/gallery" element={<Gallery/>}/>
+          <Route path="/about" element={<About/>}/>
         </Routes>
         <Footer/>
       </div>

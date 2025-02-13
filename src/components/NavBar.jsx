@@ -10,10 +10,10 @@ const Navbar = () => {
       <div className="max-w-[1400px] mx-auto flex justify-center space-x-4 h-full">
         <NavItem to="/" label="HOME" />
         {/* <NavItem to="/about-deep-vihar" label="ABOUT DEEP VIHAR" /> */}
-        <NavItem to="/about-us" label="ABOUT US" />
+        <NavItem to="/about" label="ABOUT US" />
         <NavItem to="/services" label="SERVICES" />
         <NavItem to="/gallery" label="GALLERY" />
-        {/* <NavItem to="/home-decor" label="HOME DECOR" /> */}
+        <NavItem to="/properties" label="PROPERTIES" />
         <NavItem to="/contact" label="CONTACT US" />
       </div>
     </nav>
